@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+<details><summary>表示文字</summary>
+中身の文章
+</details>
+
+
 ## Journal
 
 ### [Looking Represents Choosing in Toddlers: Exploring the Equivalence between Multimodal Measures in Forced‐choice Tasks](https://doi.org/10.1111/infa.12377)  
